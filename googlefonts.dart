@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Text("Hello World!",
             style: GoogleFonts.pacifico(
-              fontSize: 70,
+              fontSize: 60,
               fontWeight: FontWeight.bold,
               color: Colors.blue,
               backgroundColor: Colors.amber
